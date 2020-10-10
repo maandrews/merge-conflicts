@@ -14,3 +14,12 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+  # Credit Risk
+- project: Credit risk calculator
+  role: Sole Contributor
+  duration: 2015 &mdash; 2016
+  url: "https://github.com/education/classroom"
+  description: Calculates credit risk of clients.
+  
+  
